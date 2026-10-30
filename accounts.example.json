@@ -1,0 +1,6 @@
+{
+  "accounts": [
+    {"name": "账号一", "token": "替换为账号一的token", "enabled": true},
+    {"name": "账号二", "token": "替换为账号二的token", "enabled": true}
+  ]
+}

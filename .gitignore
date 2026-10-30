@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+accounts.json
+token*.txt
+.env
+*.log
+.DS_Store
